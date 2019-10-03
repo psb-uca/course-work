@@ -1,7 +1,0 @@
-//this is a text expression for my jack tokenizer
-//used for prototyping purposes
-/** simple if statement */
-
-if (x < 153) {
-	let city = 'Paris';
-}
